@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chry003
 - 👀 I’m interested in Programming, nerd stuff and solvin problems!
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Rust and Cross-Platform app dev!
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Game Engine with c++ and openGL! 
 - 📫 How to reach me instagram: @jsticherry , email: rahul003chry@gmail.com
 
 <!---
